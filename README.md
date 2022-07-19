@@ -8,3 +8,4 @@
 - Creating VM Instance in the private subnet
 - Creating Firewall rule to  allow ssh port 22 and icmp protocol
 - Creating mysql instance database with username and password
+- Createing Network Module  
