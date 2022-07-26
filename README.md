@@ -1,6 +1,6 @@
 # GCP Project Using Terraform
 
-- Make backend configuration using GCP Bucket
+- Create backend configuration using GCP Bucket
 - Creating new VPC 
 - Creating 2 Subnets (1 private and 1 public)
 - Creating Cloud router and Nat Gateway
